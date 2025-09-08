@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Tony!
+# 👋 Hi, I'm **Tony**!
 
 ### About Me:
-- 🎓 **Mathematics & Statistics Enthusiast**: I love solving complex problems and storytelling with data.
-- 📊 **Data Science Explorer**: I'm diving into statistical modeling, experimental design, and multivariate analysis.
-- 🎮 **Lifelong Learner**: Constantly improving through projects, courses, and curiosity.
+- Mathematics & Statistics student at the University of Guelph
+- Interested in data science, actuarial modeling, and analytics
+- I build projects that combine math, programming, and design
+  
+[Website](https://tonytran.dev](https://mytonytran.ca/)) · [LinkedIn](https://www.linkedin.com/in/tony-tran-a08b8a230/)
