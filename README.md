@@ -18,6 +18,6 @@ Statistical Modeling · Machine Learning · Simulation & Monte Carlo Methods · 
   <img height="20" src="https://cdn.simpleicons.org/javascript" />
 </p>
 
-## Connect ッ
+## Connect ˙ᵕ˙
 
 [mytonytran.ca](https://mytonytran.ca) · [LinkedIn](https://www.linkedin.com/in/tony-tran-a08b8a230/)
