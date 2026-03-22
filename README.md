@@ -1,12 +1,12 @@
 # Tony Tran 𓅰
 
-**Mathematics & Statistics Student**  
+**Mathematics & Statistics Researcher (Machine Learning / AI)**  
 <sub><b>University of Guelph</b></sub>
 
 ## **Focus Areas**
 
 <sub>
-Statistical Modeling · Machine Learning · Simulation & Monte Carlo Methods · Computational Analysis
+Statistical Modeling · Synthetic Data · Deep Learning · Computational Analysis
 </sub>
 
 #### Machine Learning & Analytical Stack
