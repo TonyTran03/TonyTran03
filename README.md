@@ -1,7 +1,7 @@
 # Tony Tran 𓅰
 
 **Mathematics & Statistics Researcher  <sub>(<b>Focus Areas</b>  = Statistical Modeling · Synthetic Data · Deep Learning)</sub>**  
-<sub><b>University of Guelph</b> </sub>
+<sub><b>McGill University</b> · MMA Candidate &nbsp;|&nbsp; <b>University of Guelph</b> · Graduate Research Assistant</sub>
 
 
 
