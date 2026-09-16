@@ -4,7 +4,7 @@
 <sub><b>McGill University</b> · MMA Candidate &nbsp;|&nbsp; <b>University of Guelph</b> · Graduate Research Assistant</sub>
 
 
-
+📄 **Preprint:** [Evaluating synthetic biomedical data](https://www.medrxiv.org/content/10.64898/2026.08.31.26361878v1)
 
 #### Machine Learning & Analytical Stack
 <p>
