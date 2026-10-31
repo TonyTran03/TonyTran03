@@ -2,7 +2,7 @@
 
 <p>
   Math &amp; statistics<br>
-  <sub>McGill · MMA candidate &nbsp; / &nbsp; University of Guelph · Graduate research assistant</sub>
+  <sub>Master of Management in Analytics student · McGill University<br>Graduate research assistant · University of Guelph</sub>
 </p>
 
 <p>
