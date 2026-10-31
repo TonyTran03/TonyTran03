@@ -28,7 +28,7 @@
 
 <h3>AI &amp; optimization</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/TonyTran03/f1-driving-lab/main/media/03_learned_full_control.gif" width="420" alt="My learned driver navigating a Monza turn in the simulator">
+<img align="right" src="assets/driving-closeup.gif" width="300" alt="Close follow-camera replay of the learned driver taking the Monza chicane">
 
 <p>
   <a href="https://github.com/TonyTran03/market-neutral-alpha"><b>Market-Neutral Alpha</b></a> · Stock rankings and portfolio allocation.<br>
