@@ -21,7 +21,7 @@
 
 <p>
   <a href="https://github.com/TonyTran03/CVAE-GAN-longitudinal-immunology"><b>Synthetic immune profiles</b></a><br>
-  Conditional generative models for longitudinal immune-response data.
+  Conditional generative models for longitudinal immune-response data
 </p>
 
 <br clear="all">
@@ -31,16 +31,16 @@
 <img align="right" src="assets/driving-closeup.gif" width="300" alt="Close follow-camera replay of the learned driver taking the Monza chicane">
 
 <p>
-  <a href="https://github.com/TonyTran03/market-neutral-alpha"><b>Market-Neutral Alpha</b></a> · Stock rankings and portfolio allocation.<br>
+  <a href="https://github.com/TonyTran03/market-neutral-alpha"><b>Market-Neutral Alpha</b></a> · Stock rankings and portfolio allocation<br>
   <sub>5th place · 2026 McGill–FIAM hackathon</sub>
 </p>
 
 <p>
-  <a href="https://github.com/TonyTran03/f1-driving-lab"><b>F1 Driving Lab</b></a> · Learning steering and pedals by example.
+  <a href="https://github.com/TonyTran03/f1-driving-lab"><b>F1 Driving Lab</b></a> · Learning steering and pedals by example
 </p>
 
 <p>
-  <a href="https://github.com/TonyTran03/global_fire_detector"><b>That's Fire</b></a> · Wildfire prediction maps.<br>
+  <a href="https://github.com/TonyTran03/global_fire_detector"><b>That's Fire</b></a> · Wildfire prediction maps<br>
   <sub>UofTHacks 12</sub>
 </p>
 
@@ -51,11 +51,11 @@
 <img align="right" src="https://github.com/user-attachments/assets/fd911200-1bff-4649-a33a-c075f1db652d" width="160" alt="My DOOM-style sector renderer running in R">
 
 <p>
-  <a href="https://github.com/TonyTran03/DoomR"><b>DOOM, in R</b></a> · A DOOM-style renderer built with ggplot.
+  <a href="https://github.com/TonyTran03/DoomR"><b>DOOM, in R</b></a> · A DOOM-style renderer built with ggplot
 </p>
 
 <p>
-  <a href="https://github.com/TonyTran03/sp_connect"><b>Better Jam</b></a> · Shared Spotify queue. Short excerpts so everyone gets a turn on aux.
+  <a href="https://github.com/TonyTran03/sp_connect"><b>Better Jam</b></a> · Shared Spotify queue. Short excerpts so everyone gets a turn on aux
 </p>
 
 <br clear="all">
