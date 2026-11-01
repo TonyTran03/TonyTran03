@@ -1,6 +1,8 @@
-<h1>Tony Tran 𓅰</h1>
+<img align="right" src="https://img.pokemondb.net/sprites/sword-shield/normal/togekiss.png" width="80" alt="Togekiss">
+
 
 <p>
+  
   Math &amp; statistics<br>
   <sub>Master of Management in Analytics student · McGill University<br>Graduate research assistant · University of Guelph</sub>
 </p>
