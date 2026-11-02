@@ -1,5 +1,4 @@
-<img align="right" src="https://img.pokemondb.net/sprites/sword-shield/normal/togekiss.png" width="80" alt="Togekiss">
-
+<img align="right" src="assets/togekiss-combined-xl-sparks.svg" width="200" alt="my favorite pokemon">
 
 <p>
   

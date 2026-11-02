@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="76" viewBox="0 0 310 76">
+  <g fill="none" stroke="#f2c45f" stroke-width="3" stroke-linecap="round">
+    <path d="M15 24 L5 18"/><path d="M21 17 L17 5"/><path d="M29 17 L32 7"/>
+  </g>
+  <text x="37" y="43" fill="#f4f4f6" font-family="Comic Sans MS, Comic Neue, cursive" font-size="22" letter-spacing="-0.5">my favorite pokemon</text>
+  <g fill="none" stroke="#f4f4f6" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M246 33 Q277 17 306 43"/>
+    <path d="M294 41 L307 45 L304 32"/>
+  </g>
+</svg>
